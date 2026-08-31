@@ -3164,5 +3164,20 @@
     "description": "Tool for adding interactive prompts, inputs, and styling to shell scripts.",
     "license": "MIT",
     "added": "2026-08-30"
+  },
+  {
+  "name": "CloudIDEaaS JavaScript Debugger",
+  "repo": "CloudIDEaaS/cloudideaas-vscode-debugger",
+  "homepage": "https://marketplace.visualstudio.com/items?itemName=CloudIDEaaS.cloudideaas-vscode-debugger",
+  "category": "developer-tools-cli",
+  "description": "VS Code debugger for straightforward JavaScript and HTML projects with F5 Chrome debugging and a built-in local web server.",
+  "license": "MIT",
+  "links": [
+    {
+      "label": "docs",
+      "url": "https://github.com/CloudIDEaaS/cloudideaas-vscode-debugger"
+    }
+  ],
+  "added": "2026-08-30"
   }
 ]
